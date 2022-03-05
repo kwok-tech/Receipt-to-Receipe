@@ -1,1 +1,1 @@
-# Receipt-Scanning
+# Receipt-to-Receipe
